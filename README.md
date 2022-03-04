@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer in testing based in Dublin, Ireland 🇮🇪.
+I'm a senior software engineer in testing based in Dublin, Ireland 🇮🇪.
 
 ### My background
 
