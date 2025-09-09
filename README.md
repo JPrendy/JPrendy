@@ -16,6 +16,8 @@ I'm a senior software engineer based in Dublin, Ireland 🇮🇪.
 
 <!-- <a href='https://play.google.com/store/apps/details?id=com.golden_giraffe_games.android_compose_card_game&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="60px"/></a> -->
 
+- Team Builder Dex. A fan-made, unofficial Pokémon team builder and Pokédex app, created for informational purposes only. Built with Kotlin and Android’s modern UI framework, Jetpack Compose. This project is built with MVVM architecture, Material 3, Room for persistence, Hilt for dependency injection, DataStore for local storage, Espresso for E2E testing, Roborazzi for Screenshot testing, GitHub Actions for CI/CD. It supports Accessibility and Light/Dark Theme. (Internal testing builds are available on request.)
+
 <!--
 **JPrendy/JPrendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
